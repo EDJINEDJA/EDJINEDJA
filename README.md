@@ -19,7 +19,7 @@
 
 ### Languages and Tools
 
-[ <img align="left"  alt="isual studio code" width" width="26 px "  src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/visual-studio-code-icon.png" />][webplaylist]
+[<img align="left"  alt="visual studio code"  width="26 px "  src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/visual-studio-code-icon.png" />][webplaylist]
 [ <img align="left"  alt="c++" width="26 px "  src="https://www.freeiconspng.com/uploads/dev-visual-c-plus-plus-logo-icon-11.png" />][c++playlist]
 [ <img align="left"  alt="javascript" width="26 px "  src="https://cdn3.iconfinder.com/data/icons/muksis/128/js-512.png" />][jsplaylist]
 [ <img align="left"  alt="python" width="26 px "  src="https://th.bing.com/th/id/OIP.M4xENXCXlHvUzYUlxPSLmwHaHa?pid=ImgDet&rs=1" />][pyplaylist]
