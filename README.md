@@ -28,15 +28,15 @@
 
 <br />
 <br />
-[youtube] : https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA
-[linkedin] : https://www.linkedin.com/in/kokou-laris-edjinedja-38711a1ab/
-[fb] : https://www.facebook.com/laris.edjinedja.37
-[webplaylist] : https://github.com/EDJINEDJA?tab=repositories
-[c++playlist] : https://github.com/EDJINEDJA?tab=repositories
-[jsplaylist] : https://github.com/EDJINEDJA?tab=repositories
-[pyplaylist] : https://github.com/EDJINEDJA?tab=repositories
-[rplaylist] : https://github.com/EDJINEDJA?tab=repositories
-[pyplaylist] : ttps://github.com/EDJINEDJA?tab=repositories
+youtube : https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA
+linkedin : https://www.linkedin.com/in/kokou-laris-edjinedja-38711a1ab/
+fb : https://www.facebook.com/laris.edjinedja.37
+webplaylist : https://github.com/EDJINEDJA?tab=repositories
+c++playlist : https://github.com/EDJINEDJA?tab=repositories
+jsplaylist : https://github.com/EDJINEDJA?tab=repositories
+pyplaylist : https://github.com/EDJINEDJA?tab=repositories
+rplaylist : https://github.com/EDJINEDJA?tab=repositories
+pyplaylist : ttps://github.com/EDJINEDJA?tab=repositories
 
 
 
