@@ -11,7 +11,7 @@
 
 ### Join me
 
-[ <img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/>]
+[ <img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/>][youtube]
 [ <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/OIP.zAJZfGEEfJgc9TXyvmaNBwHaHa?pid=ImgDet&rs=1"/>][linkedin]
 [ <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/R.474b5da11cc41d790563ef47f49a79c7?rik=m0cZbfb4q8X27w&pid=ImgRaw&r=0"/>][fb]
 
@@ -28,15 +28,15 @@
 
 <br />
 <br />
-youtube : https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA
-linkedin : https://www.linkedin.com/in/kokou-laris-edjinedja-38711a1ab/
-fb : https://www.facebook.com/laris.edjinedja.37
-webplaylist : https://github.com/EDJINEDJA?tab=repositories
-c++playlist : https://github.com/EDJINEDJA?tab=repositories
-jsplaylist : https://github.com/EDJINEDJA?tab=repositories
-pyplaylist : https://github.com/EDJINEDJA?tab=repositories
-rplaylist : https://github.com/EDJINEDJA?tab=repositories
-pyplaylist : ttps://github.com/EDJINEDJA?tab=repositories
+[youtube] : "https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA"
+[linkedin] : "https://www.linkedin.com/in/kokou-laris-edjinedja-38711a1ab/"
+[fb] : "https://www.facebook.com/laris.edjinedja.37"
+[webplaylist] : "https://github.com/EDJINEDJA?tab=repositories"
+[c++playlist] : "https://github.com/EDJINEDJA?tab=repositories"
+[jsplaylist] : "https://github.com/EDJINEDJA?tab=repositories"
+[pyplaylist] : "https://github.com/EDJINEDJA?tab=repositories"
+[rplaylist] : "https://github.com/EDJINEDJA?tab=repositories"
+[pyplaylist] : "ttps://github.com/EDJINEDJA?tab=repositories"
 
 
 
