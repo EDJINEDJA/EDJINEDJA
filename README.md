@@ -11,7 +11,7 @@
 
 ### Join me
 
-[ <img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/>][youtube]
+[ <img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/>]
 [ <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/OIP.zAJZfGEEfJgc9TXyvmaNBwHaHa?pid=ImgDet&rs=1"/>][linkedin]
 [ <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/R.474b5da11cc41d790563ef47f49a79c7?rik=m0cZbfb4q8X27w&pid=ImgRaw&r=0"/>][fb]
 
