@@ -31,10 +31,7 @@
 
 ---
 
-<img align="left"  alt="EDJINEDJA is github stats" width="22 px "  src="https://github-readme-stats.vercel.app/api?username=EDJINEDJA&show_icons=true" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EDJINEDJA
-&repo=EDJINEDJA
-)](https://github.com/EDJINEDJA?tab=repositories)
+[![Readme Card](https://EDJINEDJA.vercel.app/api/pin/?username=EDJINEDJA&repo=EDJINEDJA)](https://github.com/EDJINEDJA/EDJINEDJA)
 
 [youtube] : "https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA"
 [linkedin] : "https://www.linkedin.com/in/kokou-laris-edjinedja-38711a1ab/"
