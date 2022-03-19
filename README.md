@@ -32,6 +32,8 @@
 <img align="left"  alt="r studio" width="26 px "  src="https://th.bing.com/th/id/R.e208fda7e2ff974949d8dbb12099acbf?rik=Ms%2b4%2fjleEr9N%2fA&pid=ImgRaw&r=0" />
 <img align="left"  alt="sklearn" width="26 px "  src="https://miro.medium.com/max/1200/0*y1dQgNrQ8FyVQ8Rm.png" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDJINEDJA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 
