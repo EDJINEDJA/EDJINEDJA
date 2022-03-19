@@ -11,9 +11,9 @@
 
 ### Join me
 
-[ <img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/>][youtube]
-[ <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/OIP.zAJZfGEEfJgc9TXyvmaNBwHaHa?pid=ImgDet&rs=1"/>][linkedin]
-[ <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/R.474b5da11cc41d790563ef47f49a79c7?rik=m0cZbfb4q8X27w&pid=ImgRaw&r=0"/>][fb]
+<img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/>
+<img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/OIP.zAJZfGEEfJgc9TXyvmaNBwHaHa?pid=ImgDet&rs=1"/>
+<img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/R.474b5da11cc41d790563ef47f49a79c7?rik=m0cZbfb4q8X27w&pid=ImgRaw&r=0"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDJINEDJA)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,17 +27,5 @@
 <img align="left"  alt="r studio" width="26 px "  src="https://th.bing.com/th/id/R.e208fda7e2ff974949d8dbb12099acbf?rik=Ms%2b4%2fjleEr9N%2fA&pid=ImgRaw&r=0" />
 <img align="left"  alt="sklearn" width="26 px "  src="https://miro.medium.com/max/1200/0*y1dQgNrQ8FyVQ8Rm.png" />
 <br />
-<br />
-
-[youtube] : "https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA"
-[linkedin] : "https://www.linkedin.com/in/kokou-laris-edjinedja-38711a1ab/"
-[fb] : "https://www.facebook.com/laris.edjinedja.37"
-[webplaylist] : "https://github.com/EDJINEDJA?tab=repositories"
-[c++playlist] : "https://github.com/EDJINEDJA?tab=repositories"
-[jsplaylist] : "https://github.com/EDJINEDJA?tab=repositories"
-[pyplaylist] : "https://github.com/EDJINEDJA?tab=repositories"
-[rplaylist] : "https://github.com/EDJINEDJA?tab=repositories"
-[pyplaylist] : "ttps://github.com/EDJINEDJA?tab=repositories"
-
 
 
