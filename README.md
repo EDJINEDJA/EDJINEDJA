@@ -8,7 +8,7 @@
 * 🤝 I'm seeking to collaborate with other content creators
 * ✨ Hobbies : i like to play  football and basketball, i love dance also
 * ✔️ 2022 project is to found an amazing company in wich i will develope my data science skills
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EDJINEDJA&repo=github-readme-stats)](https://github.com/EDJINEDJA/github-readme-stats)
 ### Join me
 
 [ <img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/>][youtube]
@@ -33,6 +33,7 @@
 
 <img align="left"  alt="EDJINEDJA is github stats" width="22 px "  src="https://github-readme-stats.vercel.app/api?username=EDJINEDJA&show_icons=true" />
 ![EDJINEDJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDJINEDJA&show_icons=true&theme=radical)
+
 [youtube] : "https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA"
 [linkedin] : "https://www.linkedin.com/in/kokou-laris-edjinedja-38711a1ab/"
 [fb] : "https://www.facebook.com/laris.edjinedja.37"
