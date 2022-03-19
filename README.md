@@ -8,6 +8,7 @@
 * 🤝 I'm seeking to collaborate with other content creators
 * ✨ Hobbies : i like to play  football and basketball, i love dance also
 * ✔️ 2022 project is to found an amazing company in wich i will develope my data science skills
+
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDJINEDJA)](https://github.com/anuraghazra/github-readme-stats)
 <br />
