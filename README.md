@@ -31,8 +31,8 @@
 
 ---
 
-<img align="left"  alt="EDJINEDJA is github stats" width="22 px "  src="https://github-readme-stats.vercel.app/api?username=EDJINEDJA&show_icons=true"/>
-
+<img align="left"  alt="EDJINEDJA is github stats" width="22 px "  src="https://github-readme-stats.vercel.app/api?username=EDJINEDJA&show_icons=true" />
+![EDJINEDJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDJINEDJA&show_icons=true&theme=radical)
 [youtube] : "https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA"
 [linkedin] : "https://www.linkedin.com/in/kokou-laris-edjinedja-38711a1ab/"
 [fb] : "https://www.facebook.com/laris.edjinedja.37"
