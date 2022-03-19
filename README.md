@@ -32,6 +32,7 @@
 <img align="left"  alt="sklearn" width="26 px "  src="https://miro.medium.com/max/1200/0*y1dQgNrQ8FyVQ8Rm.png" />
 <img align="left"  alt="kerras" width="26 px "  src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png" />
 <img align="left"  alt="tensorflow" width="26 px "  src="https://th.bing.com/th/id/OIP.qDHZwNI-q0pGv6qGKaqvzAHaH7?pid=ImgDet&rs=1" />
+<img align="left"  alt="latek" width="26 px "  src="https://th.bing.com/th/id/R.532d4ba947a9c17bcae4b4889e74fcd9?rik=TL3bfipeCh%2f4iQ&riu=http%3a%2f%2fsvgicons.o7a.net%2fofficial%2ftexmaker.png&ehk=vE6hqH4vetETW%2bJe1GOfBu4jniq5%2bO2fUWPM%2fKvrBfo%3d&risl=&pid=ImgRaw&r=0" />
 
 <br />
 <br />
