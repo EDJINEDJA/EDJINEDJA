@@ -32,7 +32,7 @@
 
 ---
 
-<img align="left"  alt="EDJINEDJA is stats"   src="https://github-readme-stats.vercel.app/api?username=kokou laris EDJINEDJA
+<img align="left"  alt="EDJINEDJA is stats"  src="https://github-readme-stats.vercel.app/api?username=kokou laris EDJINEDJA
 &show_icons=true&hide_border=true" />
 
 [youtube] : "https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA"
