@@ -8,8 +8,11 @@
 * 🤝 I'm seeking to collaborate with other content creators
 * ✨ Hobbies : i like to play  football and basketball, i love dance also
 * ✔️ 2022 project is to found an amazing company in wich i will develope my data science skills
-<br />
+
+---
+
 [![Readme Card](https://EDJINEDJA.vercel.app/api/pin/?username=EDJINEDJA&repo=EDJINEDJA)](https://github.com/EDJINEDJA/EDJINEDJA)
+
 ### Join me
 
 [ <img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/>][youtube]
