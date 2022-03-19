@@ -10,7 +10,7 @@
 * ✔️ 2022 project is to found an amazing company in wich i will develope my data science skills
 
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDJINEDJA)](https://github.com/anuraghazra/github-readme-stats)
+[![EDJINEDJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDJINEDJA)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ### Join me
