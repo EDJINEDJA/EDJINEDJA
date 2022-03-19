@@ -29,6 +29,8 @@
 <img align="left"  alt="python" width="26 px "  src="https://th.bing.com/th/id/OIP.M4xENXCXlHvUzYUlxPSLmwHaHa?pid=ImgDet&rs=1" />
 <img align="left"  alt="r studio" width="26 px "  src="https://th.bing.com/th/id/R.e208fda7e2ff974949d8dbb12099acbf?rik=Ms%2b4%2fjleEr9N%2fA&pid=ImgRaw&r=0" />
 <img align="left"  alt="sklearn" width="26 px "  src="https://miro.medium.com/max/1200/0*y1dQgNrQ8FyVQ8Rm.png" />
+
+<br />
 <br />
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDJINEDJA&hide=stars,commits,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
