@@ -9,7 +9,7 @@
 * ✨ Hobbies : i like to play  football and basketball, i love dance also
 * ✔️ 2022 project is to found an amazing company in wich i will develope my data science skills
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EDJINEDJA&repo=github-readme-stats)](https://github.com/EDJINEDJA/EDJINEDJA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EDJINEDJA&repo=EDJINEDJA)](https://github.com/EDJINEDJA/EDJINEDJA)
 
 ### Join me
 
