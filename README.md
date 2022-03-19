@@ -21,12 +21,11 @@
 ### Languages and Tools
 
 <img align="left"  alt="visual studio code"  width="26 px "  src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/visual-studio-code-icon.png" />
-[ <img align="left"  alt="c++" width="26 px "  src="https://www.freeiconspng.com/uploads/dev-visual-c-plus-plus-logo-icon-11.png" />][c++playlist]
-[ <img align="left"  alt="javascript" width="26 px "  src="https://cdn3.iconfinder.com/data/icons/muksis/128/js-512.png" />][jsplaylist]
-[ <img align="left"  alt="python" width="26 px "  src="https://th.bing.com/th/id/OIP.M4xENXCXlHvUzYUlxPSLmwHaHa?pid=ImgDet&rs=1" />][pyplaylist]
-[ <img align="left"  alt="r studio" width="26 px "  src="https://th.bing.com/th/id/R.e208fda7e2ff974949d8dbb12099acbf?rik=Ms%2b4%2fjleEr9N%2fA&pid=ImgRaw&r=0" />][rplaylist]
-[ <img align="left"  alt="sklearn" width="26 px "  src="https://miro.medium.com/max/1200/0*y1dQgNrQ8FyVQ8Rm.png" />][pyplaylist]
-
+<img align="left"  alt="c++" width="26 px "  src="https://www.freeiconspng.com/uploads/dev-visual-c-plus-plus-logo-icon-11.png" />
+<img align="left"  alt="javascript" width="26 px "  src="https://cdn3.iconfinder.com/data/icons/muksis/128/js-512.png" />
+<img align="left"  alt="python" width="26 px "  src="https://th.bing.com/th/id/OIP.M4xENXCXlHvUzYUlxPSLmwHaHa?pid=ImgDet&rs=1" />
+<img align="left"  alt="r studio" width="26 px "  src="https://th.bing.com/th/id/R.e208fda7e2ff974949d8dbb12099acbf?rik=Ms%2b4%2fjleEr9N%2fA&pid=ImgRaw&r=0" />
+<img align="left"  alt="sklearn" width="26 px "  src="https://miro.medium.com/max/1200/0*y1dQgNrQ8FyVQ8Rm.png" />
 <br />
 <br />
 
