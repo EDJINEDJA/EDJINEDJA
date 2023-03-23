@@ -12,7 +12,7 @@
 
 ### Join me
 
-<img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/,href="https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA" > 
+<img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png",href="https://www.youtube.com/channel/UCet7aR9RYitkg5H0YXHHlmA" > 
 <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/OIP.zAJZfGEEfJgc9TXyvmaNBwHaHa?pid=ImgDet&rs=1"/>
 <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://github.com/EDJINEDJA/EDJINEDJA/blob/master/laris.jpeg"/>
 
