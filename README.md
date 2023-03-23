@@ -14,7 +14,7 @@
 
 <img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/>
 <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/OIP.zAJZfGEEfJgc9TXyvmaNBwHaHa?pid=ImgDet&rs=1"/>
-<img align="left"  alt="EDJINEDJA" width="22 px "  src="[https://th.bing.com/th/id/R.474b5da11cc41d790563ef47f49a79c7?rik=m0cZbfb4q8X27w&pid=ImgRaw&r=0](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.linkedin.com%2Fin%2Fkokou-laris-edjinedja-38711a1ab&psig=AOvVaw3ohX2hajjXGr97W29tL1n-&ust=1679653828731000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCTnaDs8f0CFQAAAAAdAAAAABAE)"/>
+<img align="left"  alt="EDJINEDJA" width="22 px "  src="https://github.com/EDJINEDJA/EDJINEDJA/blob/master/laris.jpeg"/>
 
 <br />
 <br />
