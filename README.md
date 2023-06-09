@@ -3,11 +3,11 @@
 ### I'm data scientist, developper, teacher, and mathématician!
 
 * 🖇️ I'm currently working on some project 🤣
-* ♥️  I love all project type 
-* 🌱 I love to discuss about mathematics ingineering end automatic trading
+* ♥️  I love all project types 
+* 🌱 I love to discuss about mathematics engineering and automatic trading
 * 🤝 I'm seeking to collaborate with other content creators
-* ✨ Hobbies : i like to play  football and basketball, i love dance also
-* ✔️ 2023 The project involves writing several amazing papers to contribute to the research field.
+* ✨ Hobbies : I like to play football and basketball, I also love to dance.
+* ✔️ 2023 My plan is to join an extraordinary company where I'll develop and improve my data science skills.
 
 
 ### Join me
