@@ -1,6 +1,6 @@
 ### Hi there, I'm laris EDJINEDJA aka - laris 👋
 
-### I'm data scientist, developper, teacher, and mathématician!
+### I'm data scientist, developer, teacher, and mathématician!
 
 * 🖇️ I'm currently working on some project 🤣
 * ♥️  I love all project types 
