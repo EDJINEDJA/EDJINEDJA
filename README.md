@@ -1,13 +1,13 @@
 ### Hi there, I'm laris EDJINEDJA aka - laris 👋
 
-### I'm data scientist, developer, teacher, and mathématician!
+### I'm a data scientist, developer, teacher, and mathématician!
 
 * 🖇️ I'm currently working on some project 🤣
-* ♥️  I love all project types 
-* 🌱 I love to discuss about mathematics engineering and automatic trading
+* ♥️  I love all types of project 
+* 🌱 I love discussing mathematics engineering and automatic trading
 * 🤝 I'm seeking to collaborate with other content creators
-* ✨ Hobbies : I like to play football and basketball, I also love to dance.
-* ✔️ 2023 My plan is to join an extraordinary team of work where I'll develop and improve my data science skills.
+* ✨ Hobbies: I like playing football and basketball, I also love to dance.
+* ✔️ 2023 I plan to join an extraordinary team of work where I'll develop and improve my data science skills.
 
 
 ### Join me
