@@ -7,8 +7,6 @@
 * 🌱 I love discussing mathematics engineering and automatic trading
 * 🤝 I'm seeking to collaborate with other content creators
 * ✨ Hobbies: I like playing football and basketball, I also love to dance.
-* ✔️ 2023 I plan to join an extraordinary team of work where I'll develop and improve my data science skills.
-
 
 ### Join me
 
