@@ -21,7 +21,7 @@
 
 ### Blog post
 
-* [![Automatica](https://edjinedja.github.io/blog/)
+* [Automatica](https://edjinedja.github.io/blog/)
     * 🖇️ [Système Multi-Agent Augmenté par LLM pour l'Envoi Automatique de Mails](https://edjinedja.github.io/blog/posts/post1/)
       
 ### Languages and Tools
