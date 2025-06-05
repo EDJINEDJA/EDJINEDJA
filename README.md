@@ -10,7 +10,7 @@
 
 ### Join me
 
-<img align="left"  alt="automaticall" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/> 
+<img align="left"  alt="automatica" width="22 px "  src="https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG.png"/> 
 <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://th.bing.com/th/id/OIP.zAJZfGEEfJgc9TXyvmaNBwHaHa?pid=ImgDet&rs=1"/>
 <img align="left"  alt="EDJINEDJA" width="22 px "  src="https://github.com/EDJINEDJA/EDJINEDJA/blob/master/laris.jpeg"/>
 
@@ -19,7 +19,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDJINEDJA)](https://github.com/anuraghazra/github-readme-stats)
 
+### Blog post
 
+* [![Automatica](https://edjinedja.github.io/blog/)
+    * 🖇️ [Système Multi-Agent Augmenté par LLM pour l'Envoi Automatique de Mails](https://edjinedja.github.io/blog/posts/post1/)
+      
 ### Languages and Tools
 
 <img align="left"  alt="visual studio code"  width="26 px "  src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/visual-studio-code-icon.png" />
