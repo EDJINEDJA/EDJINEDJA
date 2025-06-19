@@ -6,7 +6,7 @@
 * ♥️  I love all types of project 
 * 🌱 I love discussing mathematics engineering and automatic trading
 * 🤝 I'm seeking to collaborate with other content creators
-* ✨ Hobbies: I like playing football and basketball, I also love to dance.
+* ✨ Hobbies: I like playing football and basketball.
 
 ### Join me
 
